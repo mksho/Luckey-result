@@ -1,1 +1,1 @@
-# Luckey-result
+# Luckey 電卓
